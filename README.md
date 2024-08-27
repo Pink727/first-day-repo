@@ -38,7 +38,9 @@ What command can you use to list the contents of a directory? How can you use th
 
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 
-* What are the `git fetch` and `git merge` commands? 
+* What are the `git fetch` pulls files from a remote repository 
+
+ and `git merge` commands? not exactly sure, from what i have fond it merges the all the changes into a single path.
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
